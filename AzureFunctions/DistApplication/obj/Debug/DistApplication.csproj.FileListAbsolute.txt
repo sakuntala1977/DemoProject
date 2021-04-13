@@ -1,0 +1,7 @@
+C:\Sakku\AzureFunctions\DistApplication\bin\Debug\DistApplication.exe.config
+C:\Sakku\AzureFunctions\DistApplication\bin\Debug\DistApplication.exe
+C:\Sakku\AzureFunctions\DistApplication\bin\Debug\DistApplication.pdb
+C:\Sakku\AzureFunctions\DistApplication\obj\Debug\DistApplication.csprojResolveAssemblyReference.cache
+C:\Sakku\AzureFunctions\DistApplication\obj\Debug\DistApplication.csproj.CoreCompileInputs.cache
+C:\Sakku\AzureFunctions\DistApplication\obj\Debug\DistApplication.exe
+C:\Sakku\AzureFunctions\DistApplication\obj\Debug\DistApplication.pdb
